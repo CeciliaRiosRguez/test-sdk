@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import ScanWrap from "scandoc-onboarding";
-import "scandoc-onboarding/dist/css/onboarding.css";
+import "scandoc-onboarding/dist/css/onboarding.css"
 
 function Scan() {
     useEffect(() => {
